@@ -16,3 +16,7 @@ themes/butterfly/
 .vscode/
 *.swp
 *.swo
+
+# Claude Code
+.claude/
+cron.log
