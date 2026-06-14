@@ -7,3 +7,12 @@ public/
 .deploy*/
 _multiconfig.yml
 themes/butterfly/
+
+# Hexo generated
+.cache/
+*.tmp
+
+# Editor
+.vscode/
+*.swp
+*.swo
