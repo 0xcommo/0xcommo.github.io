@@ -61,10 +61,10 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600
 
 # The banner image of index page
-index_img:
+index_img: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600
 
 # The banner image of archive page
 archive_img:
@@ -147,9 +147,10 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
+  loop: true
   # Customize typed.js
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:
@@ -163,6 +164,18 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+    - "AI = my OIALO（Once-in-a-lifetime Opportunity）｜用 AI 和见识，对抗熵增。"
+    - "在当下活出有意义的时刻，知其不可而为之，以此抗拒生活世界的虚无。"
+    - "Fortis Fortuna Adiuvat."
+    - "我们的职责是平整土地，而非焦虑时光。你做三四月的事，在八九月自有答案。"
+    - "Nothing replaces hard work."
+    - "所有命运的馈赠，早已在暗中标注好了价格。@茨威格"
+    - "流泪撒种的，必欢呼收割。@圣经"
+    - "星星之火，可以燎原。@毛泽东"
+    - "一万年太久，只争朝夕。@毛泽东"
+    - "自信人生二百年，会当水击三千里。@毛泽东"
+    - "不到长城非好汉。@毛泽东"
+    - "世界是你们的，也是我们的，但归根结底是你们的。@毛泽东"
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
