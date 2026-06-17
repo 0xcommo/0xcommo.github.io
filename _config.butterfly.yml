@@ -49,6 +49,7 @@ code_blocks:
 social:
   fab fa-github: https://github.com/0xcommo || Github || '#24292e'
   fas fa-envelope: mailto:745154989@qq.com || Email || '#4a7dbe'
+  fas fa-rss: /atom.xml || RSS || '#ee832b'
 
 # --------------------------------------
 # Image Settings
@@ -298,7 +299,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: '<!-- 待填写 -->'
     button:
       enable: true
       icon: fab fa-github
