@@ -274,12 +274,12 @@ footer:
   nav:
   owner:
     enable: true
-    since: 2025
+    since: 2026
   # Copyright of theme and framework
   copyright:
     enable: true
     version: true
-  custom_text:
+  custom_text: '用 AI 和见识，对抗熵增。'
 
 # --------------------------------------
 # Aside Settings
