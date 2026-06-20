@@ -55,10 +55,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: https://github.com/0xcommo.png
 
 avatar:
-  img: /img/avatar.png
+  img: https://github.com/0xcommo.png
   effect: false
 
 # Disable all banner images
@@ -299,15 +299,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description: '<!-- 待填写 -->'
+    description: '记录想法、技术与生活。'
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/0xcommo
   card_announcement:
-    enable: true
-    content: This is my Blog
+    enable: false
+    content:
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -367,7 +367,7 @@ aside:
     # Time difference between publish date and now
     # Formal: Month/Day/Year Time or Year/Month/Day Time
     # Leave it empty if you don't enable this feature
-    runtime_date:
+    runtime_date: 6/14/2026 00:00:00
 
 # --------------------------------------
 # Bottom right button
